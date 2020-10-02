@@ -1,4 +1,4 @@
-# Site
+# Resume Site
 
 This is a simple website for profissional resume. 
 It's based on <a href="https://github.com/afnizarnur/draco">Draco</a>
